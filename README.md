@@ -86,3 +86,7 @@ We implemented a 4-bit full adder to sum two binary numbers. The output was deco
 
 ### Simulation for the 4-Bit Full Adder
 ![4 Bit Simulation](assets/4-bit-simulation.png)
+
+### IRL Simulation for the 4-Bit Full Adder
+🎬 [Click here to watch the demo](./assets/demo-video.mp4)
+
