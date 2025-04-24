@@ -1,13 +1,5 @@
 # 4-Bit Full Adder Circuit – Logic Circuits I Project
 
-### Team Members
-- Mootassem Emad El-Zarka [8586]  
-- Mina Reda Nassif [9049]  
-- Karim Hassan ElNaggar [8618]  
-- Ziad Mohamed Abdelrahman [8752]  
-
----
-
 ## 🧠 Problem Statement
 
 Design a 4-bit full adder circuit to sum two unsigned 4-bit numbers and display the result on a 7-segment display.
@@ -94,7 +86,3 @@ We implemented a 4-bit full adder to sum two binary numbers. The output was deco
 
 ### Simulation for the 4-Bit Full Adder
 ![4 Bit Simulation](assets/4-bit-simulation.png)
-
----
-
-> **Note:** Make sure to add your images to a folder named `assets` in the root of your repository, or update the paths accordingly.
